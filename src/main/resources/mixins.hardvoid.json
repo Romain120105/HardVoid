@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "fr.shoqapik.hardvoid.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": ["AdaptiveMixin"],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
